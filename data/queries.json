@@ -1,0 +1,22 @@
+[
+  {"category": "Orders", "query": "Where is my order? It was supposed to arrive yesterday."},
+  {"category": "Orders", "query": "Can I change the shipping address after placing my order?"},
+  {"category": "Orders", "query": "My order status says 'processing' for two days. Is there a delay?"},
+  {"category": "Orders", "query": "I want to cancel my order. How do I do that?"},
+  {"category": "Returns", "query": "How do I return an item I bought last week?"},
+  {"category": "Returns", "query": "The item I received is damaged. What should I do?"},
+  {"category": "Returns", "query": "Can I exchange a product for a different size?"},
+  {"category": "Returns", "query": "What is your return policy for sale items?"},
+  {"category": "Payments", "query": "My payment failed but money was deducted. What now?"},
+  {"category": "Payments", "query": "Do you accept PayPal or only credit cards?"},
+  {"category": "Payments", "query": "Can I get an invoice for my purchase?"},
+  {"category": "Payments", "query": "Why was my card declined at checkout?"},
+  {"category": "Discounts", "query": "How can I use a promo code?"},
+  {"category": "Discounts", "query": "Is there a student discount available?"},
+  {"category": "Discounts", "query": "My discount code isn’t working. Can you help?"},
+  {"category": "Discounts", "query": "Do you have any ongoing sales or offers?"},
+  {"category": "Account issues", "query": "I forgot my password. How can I reset it?"},
+  {"category": "Account issues", "query": "How do I delete my account permanently?"},
+  {"category": "Account issues", "query": "I can’t log in even after resetting my password."},
+  {"category": "Account issues", "query": "How do I update my email address?"}
+]

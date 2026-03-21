@@ -1,0 +1,80 @@
+2026-03-19 23:35:10,012 [INFO] [Q1][Zero-Shot] Query: Where is my order? It was supposed to arrive yesterday.
+2026-03-19 23:35:12,145 [INFO] [Q1][Zero-Shot] Response: I'm sorry your order hasn't arrived yet! Please share your order number and I'll look into the current shipping status for you right away. Delays can occasionally happen with carriers, but we'll make sure you're updated.
+2026-03-19 23:35:12,146 [INFO] [Q1][One-Shot] Query: Where is my order? It was supposed to arrive yesterday.
+2026-03-19 23:35:14,352 [INFO] [Q1][One-Shot] Response: I'm really sorry for the delay! Please share your order number so I can check the latest tracking details for you. If there's an issue with the carrier, I'll work on getting it resolved as quickly as possible - happy to help!
+2026-03-19 23:35:14,353 [INFO] [Q2][Zero-Shot] Query: Can I change the shipping address after placing my order?
+2026-03-19 23:35:16,211 [INFO] [Q2][Zero-Shot] Response: If your order hasn't shipped yet, we may be able to update the address. Please send us your order number and the new address, and we'll do our best to make the change for you.
+2026-03-19 23:35:16,212 [INFO] [Q2][One-Shot] Query: Can I change the shipping address after placing my order?
+2026-03-19 23:35:18,489 [INFO] [Q2][One-Shot] Response: Great question! If your order hasn't been dispatched yet, we can absolutely update the shipping address. Just share your order number and the new address, and I'll take care of it right away. Happy to help!
+2026-03-19 23:35:18,490 [INFO] [Q3][Zero-Shot] Query: My order status says 'processing' for two days. Is there a delay?
+2026-03-19 23:35:20,533 [INFO] [Q3][Zero-Shot] Response: Thank you for reaching out! A 'processing' status can sometimes take a couple of business days depending on item availability. If it continues beyond that, please share your order number and I'll check on it for you.
+2026-03-19 23:35:20,534 [INFO] [Q3][One-Shot] Query: My order status says 'processing' for two days. Is there a delay?
+2026-03-19 23:35:22,810 [INFO] [Q3][One-Shot] Response: I understand your concern! Orders typically process within 1-2 business days. Since yours has been processing for two days, let me look into it - please share your order number and I'll get back to you with an update right away.
+2026-03-19 23:35:22,811 [INFO] [Q4][Zero-Shot] Query: I want to cancel my order. How do I do that?
+2026-03-19 23:35:24,762 [INFO] [Q4][Zero-Shot] Response: You can request a cancellation by going to your account and viewing your order history. If the option isn't available there, share your order number with us and we'll cancel it on our end.
+2026-03-19 23:35:24,763 [INFO] [Q4][One-Shot] Query: I want to cancel my order. How do I do that?
+2026-03-19 23:35:26,621 [INFO] [Q4][One-Shot] Response: I'd be happy to help with that! If your order hasn't shipped yet, I can cancel it for you right away. Just share your order number and I'll process the cancellation and refund. Happy to help!
+2026-03-19 23:35:26,622 [INFO] [Q5][Zero-Shot] Query: How do I return an item I bought last week?
+2026-03-19 23:35:28,451 [INFO] [Q5][Zero-Shot] Response: You can initiate a return through your account under order history and selecting the item you'd like to return. Make sure the item is unused and in original packaging. If you need help, let us know!
+2026-03-19 23:35:28,452 [INFO] [Q5][One-Shot] Query: How do I return an item I bought last week?
+2026-03-19 23:35:30,903 [INFO] [Q5][One-Shot] Response: No problem at all! To start a return, go to "My Orders" in your account, select the item, and click "Return." Make sure it's in its original condition. Once we receive it, your refund will be processed within 5-7 business days. Let me know if you need any help!
+2026-03-19 23:35:30,904 [INFO] [Q6][Zero-Shot] Query: The item I received is damaged. What should I do?
+2026-03-19 23:35:32,878 [INFO] [Q6][Zero-Shot] Response: I'm really sorry about that! Please share your order number and a photo of the damaged item so we can arrange a replacement or refund for you as quickly as possible.
+2026-03-19 23:35:32,879 [INFO] [Q6][One-Shot] Query: The item I received is damaged. What should I do?
+2026-03-19 23:35:34,942 [INFO] [Q6][One-Shot] Response: I'm so sorry to hear that! Please send us your order number along with a photo of the damage, and I'll get a replacement or full refund sorted out for you right away. Your satisfaction is our priority - happy to help!
+2026-03-19 23:35:34,943 [INFO] [Q7][Zero-Shot] Query: Can I exchange a product for a different size?
+2026-03-19 23:35:36,781 [INFO] [Q7][Zero-Shot] Response: Yes, you can exchange for a different size! Please initiate a return for the current item and place a new order for the size you need. We'll process your refund once we receive the return.
+2026-03-19 23:35:36,782 [INFO] [Q7][One-Shot] Query: Can I exchange a product for a different size?
+2026-03-19 23:35:38,915 [INFO] [Q7][One-Shot] Response: Absolutely! You can exchange the product for a different size. Just go to "My Orders," select the item, and choose "Exchange." Pick the new size, and we'll ship it out once we receive the original. Let me know if you need any help with this!
+2026-03-19 23:35:38,916 [INFO] [Q8][Zero-Shot] Query: What is your return policy for sale items?
+2026-03-19 23:35:40,847 [INFO] [Q8][Zero-Shot] Response: Sale items are typically final sale, but certain categories may still be eligible for return within 14 days. Please check the product page or contact us with your order details and we'll let you know.
+2026-03-19 23:35:40,848 [INFO] [Q8][One-Shot] Query: What is your return policy for sale items?
+2026-03-19 23:35:43,112 [INFO] [Q8][One-Shot] Response: Great question! Most sale items at Chic Boutique can be returned within 14 days if they're unused and in original packaging. A few clearance items may be final sale - check your order confirmation for details. Feel free to reach out if you'd like me to check a specific item!
+2026-03-19 23:35:43,113 [INFO] [Q9][Zero-Shot] Query: My payment failed but money was deducted. What now?
+2026-03-19 23:35:44,980 [INFO] [Q9][Zero-Shot] Response: I'm sorry for the trouble! Sometimes failed transactions can show a temporary hold that is released within 3-5 business days. Please share your order number and I'll check the payment status for you.
+2026-03-19 23:35:44,981 [INFO] [Q9][One-Shot] Query: My payment failed but money was deducted. What now?
+2026-03-19 23:35:47,125 [INFO] [Q9][One-Shot] Response: I completely understand how frustrating that must be! A failed transaction sometimes results in a temporary hold, which your bank will release within 3-5 business days. Please share your order number and I'll verify the payment status on our end right away. Happy to help!
+2026-03-19 23:35:47,126 [INFO] [Q10][Zero-Shot] Query: Do you accept PayPal or only credit cards?
+2026-03-19 23:35:48,851 [INFO] [Q10][Zero-Shot] Response: We accept major credit cards, debit cards, and PayPal at checkout. You'll see all available payment options when you proceed to pay.
+2026-03-19 23:35:48,852 [INFO] [Q10][One-Shot] Query: Do you accept PayPal or only credit cards?
+2026-03-19 23:35:50,713 [INFO] [Q10][One-Shot] Response: Yes, we do accept PayPal along with all major credit and debit cards! You'll see the full list of payment options at checkout. If you have any trouble, feel free to reach out - happy to help!
+2026-03-19 23:35:50,714 [INFO] [Q11][Zero-Shot] Query: Can I get an invoice for my purchase?
+2026-03-19 23:35:52,433 [INFO] [Q11][Zero-Shot] Response: Of course! You can download your invoice from the order confirmation email or from the "My Orders" section in your account. Let us know if you need any help locating it.
+2026-03-19 23:35:52,434 [INFO] [Q11][One-Shot] Query: Can I get an invoice for my purchase?
+2026-03-19 23:35:54,582 [INFO] [Q11][One-Shot] Response: Absolutely! You can download your invoice directly from "My Orders" in your account, or find it in your order confirmation email. If you need a custom invoice with specific details, just share your order number and I'll send one over. Happy to help!
+2026-03-19 23:35:54,583 [INFO] [Q12][Zero-Shot] Query: Why was my card declined at checkout?
+2026-03-19 23:35:56,411 [INFO] [Q12][Zero-Shot] Response: Card declines can happen for several reasons - insufficient funds, incorrect card details, or bank security blocks. Please double-check your information and try again. If the issue persists, contact your bank for more details.
+2026-03-19 23:35:56,412 [INFO] [Q12][One-Shot] Query: Why was my card declined at checkout?
+2026-03-19 23:35:58,829 [INFO] [Q12][One-Shot] Response: I'm sorry about that! Card declines can happen due to incorrect details, insufficient balance, or a temporary bank block. Please double-check your card info and try again. If it still doesn't work, your bank should be able to help, or you can try an alternative payment method. Let me know if you need further assistance!
+2026-03-19 23:35:58,830 [INFO] [Q13][Zero-Shot] Query: How can I use a promo code?
+2026-03-19 23:36:00,612 [INFO] [Q13][Zero-Shot] Response: You can enter your promo code at checkout in the "Discount Code" field and click "Apply." The discount should reflect in your order total immediately.
+2026-03-19 23:36:00,613 [INFO] [Q13][One-Shot] Query: How can I use a promo code?
+2026-03-19 23:36:02,572 [INFO] [Q13][One-Shot] Response: It's easy! At checkout, you'll see a "Promo Code" or "Discount Code" field - just paste your code there and click "Apply." The discount will be reflected in your total right away. Let me know if the code doesn't seem to work!
+2026-03-19 23:36:02,573 [INFO] [Q14][Zero-Shot] Query: Is there a student discount available?
+2026-03-19 23:36:04,312 [INFO] [Q14][Zero-Shot] Response: We occasionally run promotions that may include student discounts. Check our website or subscribe to our newsletter for the latest offers and deals.
+2026-03-19 23:36:04,313 [INFO] [Q14][One-Shot] Query: Is there a student discount available?
+2026-03-19 23:36:06,472 [INFO] [Q14][One-Shot] Response: Great question! We do offer a 10% student discount. You can verify your student status at checkout through our partner verification service, and the discount will be applied automatically. If you have any trouble, just let me know - happy to help!
+2026-03-19 23:36:06,473 [INFO] [Q15][Zero-Shot] Query: My discount code isn't working. Can you help?
+2026-03-19 23:36:08,211 [INFO] [Q15][Zero-Shot] Response: I'm sorry about that! Please make sure the code hasn't expired and that it applies to the items in your cart. If it still doesn't work, share the code with us and we'll look into it.
+2026-03-19 23:36:08,212 [INFO] [Q15][One-Shot] Query: My discount code isn't working. Can you help?
+2026-03-19 23:36:10,381 [INFO] [Q15][One-Shot] Response: I'm sorry for the trouble! Discount codes can sometimes not work if they've expired, don't apply to certain items, or have a minimum order requirement. Please share the code and your cart details, and I'll sort it out for you right away. Happy to help!
+2026-03-19 23:36:10,382 [INFO] [Q16][Zero-Shot] Query: Do you have any ongoing sales or offers?
+2026-03-19 23:36:12,125 [INFO] [Q16][Zero-Shot] Response: Yes, we regularly run sales and special offers! Check the "Sale" section on our website or sign up for our newsletter to get the latest deals delivered to your inbox.
+2026-03-19 23:36:12,126 [INFO] [Q16][One-Shot] Query: Do you have any ongoing sales or offers?
+2026-03-19 23:36:14,292 [INFO] [Q16][One-Shot] Response: Great timing! We currently have seasonal offers running on select categories. Check out the "Sale" section on our website for the latest deals. You can also sign up for our newsletter so you never miss a promotion. Happy shopping!
+2026-03-19 23:36:14,293 [INFO] [Q17][Zero-Shot] Query: I forgot my password. How can I reset it?
+2026-03-19 23:36:16,051 [INFO] [Q17][Zero-Shot] Response: No worries! Click "Forgot Password" on the login page, enter your registered email, and you'll receive a reset link. Follow the link to set a new password.
+2026-03-19 23:36:16,052 [INFO] [Q17][One-Shot] Query: I forgot my password. How can I reset it?
+2026-03-19 23:36:18,220 [INFO] [Q17][One-Shot] Response: No worries at all! Just click "Forgot Password" on the login page and enter your email address. You'll receive a reset link within a few minutes - follow it to create a new password. If the email doesn't arrive, check your spam folder or let me know and I'll help!
+2026-03-19 23:36:18,221 [INFO] [Q18][Zero-Shot] Query: How do I delete my account permanently?
+2026-03-19 23:36:20,014 [INFO] [Q18][Zero-Shot] Response: To delete your account, go to "Account Settings" and look for the option to deactivate or delete. If it's not available, please contact our support team and we'll process it for you.
+2026-03-19 23:36:20,015 [INFO] [Q18][One-Shot] Query: How do I delete my account permanently?
+2026-03-19 23:36:22,231 [INFO] [Q18][One-Shot] Response: I understand. To permanently delete your account, please go to "Account Settings" > "Privacy" and select "Delete Account." If you don't see that option, just share your registered email and I'll process the deletion for you. Please note this action is irreversible. Let me know if you have any questions!
+2026-03-19 23:36:22,232 [INFO] [Q19][Zero-Shot] Query: I can't log in even after resetting my password.
+2026-03-19 23:36:24,101 [INFO] [Q19][Zero-Shot] Response: I'm sorry you're having trouble! Please try clearing your browser cache and cookies, then attempt to log in again. If the issue persists, contact us with your registered email so we can investigate.
+2026-03-19 23:36:24,102 [INFO] [Q19][One-Shot] Query: I can't log in even after resetting my password.
+2026-03-19 23:36:26,381 [INFO] [Q19][One-Shot] Response: I'm sorry about this! Please try clearing your browser cache or using a different browser. Also make sure you're using the most recent password you set. If the issue continues, share your registered email and I'll check your account status right away - happy to help!
+2026-03-19 23:36:26,382 [INFO] [Q20][Zero-Shot] Query: How do I update my email address?
+2026-03-19 23:36:28,211 [INFO] [Q20][Zero-Shot] Response: You can update your email by going to "Account Settings" and editing your profile information. Save the changes after entering your new email address.
+2026-03-19 23:36:28,212 [INFO] [Q20][One-Shot] Query: How do I update my email address?
+2026-03-19 23:36:30,480 [INFO] [Q20][One-Shot] Response: Easy! Just head over to "Account Settings," click on "Profile," and update your email address there. You may receive a verification email at the new address to confirm the change. If you run into any issues, let me know and I'll help. Happy to assist!

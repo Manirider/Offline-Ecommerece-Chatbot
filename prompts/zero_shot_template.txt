@@ -1,0 +1,8 @@
+{{system_context}}
+
+A customer has reached out with the following question. Respond directly, warmly, and helpfully in 2-4 sentences. Provide clear next steps if applicable.
+
+Customer Query:
+{{customer_query}}
+
+Your Response:

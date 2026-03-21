@@ -1,0 +1,13 @@
+{{system_context}}
+
+Here is an example of how to respond:
+
+Customer Query: I received the wrong item in my order. What should I do?
+Response: I'm so sorry about that mix-up! Please share your order number and a photo of the item you received, and I'll arrange a replacement or refund for you right away. We want to make this right as quickly as possible - happy to help!
+
+Now respond to the following customer query in the same warm, concise, and helpful style (2-4 sentences):
+
+Customer Query:
+{{customer_query}}
+
+Your Response:
